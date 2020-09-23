@@ -40,8 +40,8 @@ with the `-maes` flag.
 
 Recommended: `-Ofast -maes -march=native`
 
-Uses AES-256 by default. Define `pelican_KEYBYTES=16` in order to use
-AES-128 instead.
+Uses AES-128 by default. Define `pelican_KEYBYTES=32` in order to use
+AES-256 instead.
 
 References
 ==========

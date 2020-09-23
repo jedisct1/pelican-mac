@@ -12,7 +12,7 @@
 #endif
 
 #ifndef pelican_KEYBYTES
-# define pelican_KEYBYTES 32
+# define pelican_KEYBYTES 16
 #endif
 #if pelican_KEYBYTES == 16
 # define pelican_ROUNDS 10
